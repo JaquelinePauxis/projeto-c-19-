@@ -1,17 +1,22 @@
 var boy, dog;
 var boyimage, dogimage;
 
+// function preload(){
+//   boyimage = loadImage("boyimage.png")
+//   dogimage = loadImage("dogimage.png")
 
+// }
 
 
 function setup() {
  
-  createCanvas(200,200);
-  boy = createSprites(180,190,20,20);
-  
-  dog= createSprite(20,190,10,10);
-  
-
+  // createCanvas(windowWidth,windowHeight);
+  // boy = createSprite(width/2,250,20,20);
+  // boy.addImage(boyimage)
+  // boy.scale= 0.5
+  // dog= createSprite(width-1000,250,10,10);
+  // dog.addImage(dogimage)
+  // dog.scale = 0.3
   
 }
 
